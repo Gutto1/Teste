@@ -9,7 +9,7 @@ export const HomePage = () => {
       <Header>React Pokédex</Header>
       <Input type="text" mt="35px" />
       <Button width="100%" mt={2} color="white">
-        Buscar!
+        Buscar!!!!!!
       </Button>
     </div>
   )
